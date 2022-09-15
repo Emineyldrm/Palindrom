@@ -1,0 +1,17 @@
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.csproj.AssemblyReference.cache
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.Form1.resources
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.csproj.GenerateResource.cache
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.AssemblyInfoInputs.cache
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.AssemblyInfo.cs
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\emine\source\repos\Palindrom\Palindrom\bin\Debug\net6.0-windows\Palindrom.exe
+C:\Users\emine\source\repos\Palindrom\Palindrom\bin\Debug\net6.0-windows\Palindrom.deps.json
+C:\Users\emine\source\repos\Palindrom\Palindrom\bin\Debug\net6.0-windows\Palindrom.runtimeconfig.json
+C:\Users\emine\source\repos\Palindrom\Palindrom\bin\Debug\net6.0-windows\Palindrom.dll
+C:\Users\emine\source\repos\Palindrom\Palindrom\bin\Debug\net6.0-windows\Palindrom.pdb
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.dll
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\refint\Palindrom.dll
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.pdb
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\Palindrom.genruntimeconfig.cache
+C:\Users\emine\source\repos\Palindrom\Palindrom\obj\Debug\net6.0-windows\ref\Palindrom.dll
